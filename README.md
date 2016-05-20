@@ -15,3 +15,6 @@ C or C++ program I have wrote in my college(BJTU)
 ### 冒泡排序
 - `BubbleSort`，下面是不用其余变量交换数值的方法
 ![](snap/swapAB.png)
+
+### 折半查找
+- `binaryFind`折半查找，关键在更新high/low的值
