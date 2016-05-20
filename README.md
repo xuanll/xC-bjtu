@@ -11,3 +11,7 @@ C or C++ program I have wrote in my college(BJTU)
 趣味程序集
 - `cosX`函数绘制，使用`*`绘制   
 ![](snap/cosX.png)
+
+### 冒泡排序
+- `BubbleSort`，下面是不用其余变量交换数值的方法
+![](snap/swapAB.png)
