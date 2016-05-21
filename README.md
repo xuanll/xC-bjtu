@@ -18,3 +18,6 @@ C or C++ program I have wrote in my college(BJTU)
 
 ### 折半查找
 - `binaryFind`折半查找，关键在更新high/low的值
+
+### 顺序查找
+- `seqenceFind`顺序查找，array[0]保留key
