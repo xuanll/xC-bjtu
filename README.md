@@ -19,6 +19,9 @@ C or C++ program I have wrote in my college(BJTU)
 ### 选择排序
 - `selectSort`选择排序，每次查找未排序部分的最小值，将其与未排序部分第一个元素互换，使得已排序部分加长，如此这般，最终完成排序
 
+### 折半插入排序
+- `binaryInsertSort`折半插入排序，high部分后移，插入待排序元素
+
 ### 折半查找
 - `binaryFind`折半查找，要求所查找的数据是有序的，关键在更新high/low的值
 
